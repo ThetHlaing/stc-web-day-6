@@ -1,0 +1,14 @@
+#board > div {
+  display: flex; }
+
+#board input[type="checkbox"] {
+  display: none; }
+
+#board label {
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+  background-color: #00536D;
+  text-align: center;
+  color: #fff;
+  margin: 5px; }
